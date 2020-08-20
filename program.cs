@@ -1,6 +1,8 @@
 /*
 	Give yourself any amount of bloodpoints on Dead By Daylight.
 	Created by Spencer#0003 on Discord.
+	
+	To anyone who can't figure out how to use themselves, please do not DM me on Discord, I will not fucking spoonfeed you.
 
 	If anyone from Behaviour Interactive is looking at this, please fix your fucking security.
 */
